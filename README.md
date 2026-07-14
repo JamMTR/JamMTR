@@ -23,8 +23,6 @@ jamMT@terminal ~ > neofetch
 <b>Fun Fact</b>: Optimizing workflows with custom macros ⚡
 </pre>
 <pre>
-██ ██ ██ ██ ██ ██ ██ ██    |
-▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓    |
 </pre>
     </td>
   </tr>
