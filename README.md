@@ -15,7 +15,7 @@ jamMT@terminal ~ > neofetch
 <pre>
 <b>JamMTR</b>@<b>terminal</b>
 -----------------
-<b>OS</b>      : Void Linux / Debian / Fedora
+<b>OS</b>      : Void Linux / Debian / Fedora / Windows
 <b>Shell</b>   : Bash & PowerShell
 <b>Focus</b>   : Web Dev, AI Automation, Macros & Cybersec
 <b>Status</b>  : Technical degree graduation 🎓 -> Starting technologist
