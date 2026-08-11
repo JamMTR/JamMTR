@@ -18,7 +18,7 @@ jamMT@terminal ~ > neofetch
 <b>OS</b>      : Windows / Linux (Void · Debian · Fedora)
 <b>Shell</b>   : Bash & PowerShell
 <b>Focus</b>   : Backend Dev · Desktop Apps · Automation
-<b>Status</b>  : Tecnólogo en Sistemas 🎓 | Open to Work 🟢
+<b>Status</b>  : Tecnico en Software 🎓 | Open to Work 🟢
 <b>Fun Fact</b>: I automate things so I can automate more things ⚡
 </pre>
     </td>
