@@ -18,7 +18,7 @@ jamMT@terminal ~ > neofetch
 <b>OS</b>      : Windows / Linux (Void · Debian · Fedora)
 <b>Shell</b>   : Bash & PowerShell
 <b>Focus</b>   : Backend Dev · Desktop Apps · Automation
-<b>Status</b>  : Técnico Asistente de Software (UPB) 🎓 (Grad. Nov 2026) | Open to Work 🟢
+<b>Status</b>  : Software Assistant Technician (UPB) 🎓 (Grad. Nov 2026) | Open to Work 🟢
 <b>Fun Fact</b>: I automate things so I can automate more things ⚡
 </pre>
     </td>
@@ -32,9 +32,9 @@ jamMT@terminal ~ > neofetch
 jamMT@terminal ~ > cat about-me.md
 ```
 
-> Soy **Jesus Mejia**, desarrollador de software colombiano con enfoque en **automatización, aplicaciones de escritorio y backend**. Me especializo en construir herramientas que realmente resuelven problemas reales — no solo demos bonitos.
+> I'm **Jesus Mejia**, a Colombian software developer focused on **automation, desktop applications, and backend development**. I specialize in building tools that solve real-world problems—not just pretty demos.
 >
-> Actualmente en búsqueda activa de mi primera posición formal como **Desarrollador Junior**.
+> Currently seeking my first formal role as a **Junior Software Developer**.
 
 ---
 
@@ -42,13 +42,13 @@ jamMT@terminal ~ > cat about-me.md
 jamMT@terminal ~ > ls -la projects/
 ```
 
-### 🏆 Proyectos Destacados
+### 🏆 Featured Projects
 
 <table>
   <tr>
     <td>
       <h4>🎓 App Certificados Innova</h4>
-      <p>Aplicación de escritorio para automatizar la emisión, foliación y registro de certificados académicos. Sistema de folios atómico multi-PC con base de datos en la nube.</p>
+      <p>A desktop application to automate academic certificate emission, foliation, and registration. Multi-PC atomic folio system connected to a cloud database.</p>
       <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -56,28 +56,28 @@ jamMT@terminal ~ > ls -la projects/
         <img src="https://img.shields.io/badge/CustomTkinter-grey?style=flat-square"/>
       </p>
       <ul>
-        <li>Generación automatizada de actas, diplomas y valoración desde plantillas Word.</li>
-        <li>Asignación atómica de folios vía RPC en Postgres (sin duplicados bajo concurrencia).</li>
-        <li>Conexión robusta a base de datos usando variables de entorno seguras.</li>
-        <li>Empaquetado definitivo para entornos Windows.</li>
+        <li>Automated generation of diplomas, graduation records, and grade transcripts from Word templates.</li>
+        <li>Atomic folio allocation via PostgreSQL RPC functions in Supabase (avoiding duplicates under concurrent multi-user operations).</li>
+        <li>Robust database connectivity using secure environment variables.</li>
+        <li>Production-ready Windows executable packaged using PyInstaller.</li>
       </ul>
-      <p><em>🔒 Repositorio privado — disponible para revisión de código bajo solicitud directa.</em></p>
+      <p><em>🔒 Private repository — code available for review upon direct request.</em></p>
     </td>
   </tr>
   <tr>
     <td>
-      <h4>🖨️ OfficeDelSinu App & API (Colaboración)</h4>
-      <p>Colaboración en el desarrollo de una API y aplicación web/móvil dedicada a la administración de impresoras, inventario tecnológico y tickets de soporte técnico.</p>
+      <h4>🖨️ OfficeDelSinu App & API (Collaboration)</h4>
+      <p>Collaboration in developing a REST API and a web/mobile app for printer management, tech inventory, and support tickets.</p>
       <p>
         <img src="https://img.shields.io/badge/javascript-%23323330.style?style=flat-square&logo=javascript"/>
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       </p>
       <ul>
-        <li>Diseño e integración de módulos para el seguimiento y estado de dispositivos de impresión.</li>
-        <li>Optimización de consultas para la gestión de reportes de fallas e historial técnico.</li>
+        <li>Designed and integrated modules for tracking printing device status.</li>
+        <li>Optimized queries for handling error logs and technical support history.</li>
       </ul>
-      <p><em>🔒 Repositorio privado comercial de la organización.</em></p>
+      <p><em>🔒 Private commercial repository belonging to the organization.</em></p>
     </td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ jamMT@terminal ~ > ls -la projects/
 jamMT@terminal ~ > ls -la tech-stack/
 ```
 
-### Lenguajes & Frameworks
+### Languages & Frameworks
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -96,12 +96,12 @@ jamMT@terminal ~ > ls -la tech-stack/
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/AutoHotkey-%233C7F46.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
 
-### Bases de Datos & Backend
+### Databases & Backend
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web & Herramientas
+### Web & Development Tools
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
