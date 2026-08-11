@@ -18,7 +18,7 @@ jamMT@terminal ~ > neofetch
 <b>OS</b>      : Windows / Linux (Void · Debian · Fedora)
 <b>Shell</b>   : Bash & PowerShell
 <b>Focus</b>   : Backend Dev · Desktop Apps · Automation
-<b>Status</b>  : Tecnico en Software 🎓 | Open to Work 🟢
+<b>Status</b>  : Técnico Asistente de Software (UPB) 🎓 (Grad. Nov 2026) | Open to Work 🟢
 <b>Fun Fact</b>: I automate things so I can automate more things ⚡
 </pre>
     </td>
@@ -42,13 +42,13 @@ jamMT@terminal ~ > cat about-me.md
 jamMT@terminal ~ > ls -la projects/
 ```
 
-### 🏆 Proyecto Destacado
+### 🏆 Proyectos Destacados
 
 <table>
   <tr>
     <td>
       <h4>🎓 App Certificados Innova</h4>
-      <p>Aplicación de escritorio para automatizar la emisión y gestión de certificados académicos de un instituto técnico. Sistema de folios atómico multi-PC con base de datos en la nube.</p>
+      <p>Aplicación de escritorio para automatizar la emisión, foliación y registro de certificados académicos. Sistema de folios atómico multi-PC con base de datos en la nube.</p>
       <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -56,12 +56,28 @@ jamMT@terminal ~ > ls -la projects/
         <img src="https://img.shields.io/badge/CustomTkinter-grey?style=flat-square"/>
       </p>
       <ul>
-        <li>Generación automatizada de 3 tipos de certificados simultáneos desde plantillas Word</li>
-        <li>Asignación atómica de folios vía RPC en Postgres (sin duplicados bajo concurrencia)</li>
-        <li>Row-Level Security + variables de entorno — credenciales nunca en el código</li>
-        <li>Empaquetado con PyInstaller → entregable <code>.exe</code> listo para producción</li>
+        <li>Generación automatizada de actas, diplomas y valoración desde plantillas Word.</li>
+        <li>Asignación atómica de folios vía RPC en Postgres (sin duplicados bajo concurrencia).</li>
+        <li>Conexión robusta a base de datos usando variables de entorno seguras.</li>
+        <li>Empaquetado definitivo para entornos Windows.</li>
       </ul>
-      <p><em>🔒 Repositorio privado — disponible para revisión bajo solicitud</em></p>
+      <p><em>🔒 Repositorio privado — disponible para revisión de código bajo solicitud directa.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🖨️ OfficeDelSinu App & API (Colaboración)</h4>
+      <p>Colaboración en el desarrollo de una API y aplicación web/móvil dedicada a la administración de impresoras, inventario tecnológico y tickets de soporte técnico.</p>
+      <p>
+        <img src="https://img.shields.io/badge/javascript-%23323330.style?style=flat-square&logo=javascript"/>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Diseño e integración de módulos para el seguimiento y estado de dispositivos de impresión.</li>
+        <li>Optimización de consultas para la gestión de reportes de fallas e historial técnico.</li>
+      </ul>
+      <p><em>🔒 Repositorio privado comercial de la organización.</em></p>
     </td>
   </tr>
 </table>
@@ -102,6 +118,9 @@ jamMT@terminal ~ > cat socials.json
 <div align="left">
   <a href="https://www.linkedin.com/in/jesus-mejia-9b92b238a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jammtreborn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/jammtr_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
