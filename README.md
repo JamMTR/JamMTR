@@ -8,21 +8,18 @@ jamMT@terminal ~ > neofetch
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td valign="top" width="180" style="border: none; text-align: center;">
-      <!-- GitHub avatar styled with rounded corners -->
       <img src="https://github.com/JamMTR.png" width="150" style="border-radius: 20px; border: 3px solid #563D7C; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
     </td>
     <td valign="top" style="border: none; padding-left: 20px;">
 <pre>
 <b>JamMTR</b>@<b>terminal</b>
 -----------------
-<b>OS</b>      : Void Linux / Debian / Fedora / Windows
+<b>Name</b>    : Jesus Mejia
+<b>OS</b>      : Windows / Linux (Void · Debian · Fedora)
 <b>Shell</b>   : Bash & PowerShell
-<b>Focus</b>   : Web Dev, AI Automation, Macros & Cybersec
-<b>Status</b>  : Technical degree graduation 🎓 -> Starting technologist
-<b>Learning</b>: Linux, Cybersecurity & AI Automation 🧠
-<b>Fun Fact</b>: Optimizing workflows with custom macros ⚡
-</pre>
-<pre>
+<b>Focus</b>   : Backend Dev · Desktop Apps · Automation
+<b>Status</b>  : Tecnólogo en Sistemas 🎓 | Open to Work 🟢
+<b>Fun Fact</b>: I automate things so I can automate more things ⚡
 </pre>
     </td>
   </tr>
@@ -32,33 +29,42 @@ jamMT@terminal ~ > neofetch
 ---
 
 ```bash
-jamMT@terminal ~ > whoami
-```
-> **Jesus Mejia (JamMTR)** — Web Developer, AI Automation Explorer & Linux Tech Student 🌐
-
----
-
-```bash
 jamMT@terminal ~ > cat about-me.md
 ```
-- **Proyecto actual:** Trabajando en una página web para profesores e instituciones.
-- **Educación:** Actualmente finalizando mi carrera técnica y comenzando la tecnológica.
-- **Enfoque de aprendizaje:** Ciberseguridad, administración en Linux y flujos de automatización.
-- **Intereses:** Automatización de procesos mediante Inteligencia Artificial y programación de macros.
+
+> Soy **Jesus Mejia**, desarrollador de software colombiano con enfoque en **automatización, aplicaciones de escritorio y backend**. Me especializo en construir herramientas que realmente resuelven problemas reales — no solo demos bonitos.
+>
+> Actualmente en búsqueda activa de mi primera posición formal como **Desarrollador Junior**.
 
 ---
 
 ```bash
-jamMT@terminal ~ > cat socials.json
+jamMT@terminal ~ > ls -la projects/
 ```
-<div align="left">
-  <a href="https://www.instagram.com/jammtr_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/jesus-mejia-9b92b238a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+
+### 🏆 Proyecto Destacado
+
+<table>
+  <tr>
+    <td>
+      <h4>🎓 App Certificados Innova</h4>
+      <p>Aplicación de escritorio para automatizar la emisión y gestión de certificados académicos de un instituto técnico. Sistema de folios atómico multi-PC con base de datos en la nube.</p>
+      <p>
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CustomTkinter-grey?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Generación automatizada de 3 tipos de certificados simultáneos desde plantillas Word</li>
+        <li>Asignación atómica de folios vía RPC en Postgres (sin duplicados bajo concurrencia)</li>
+        <li>Row-Level Security + variables de entorno — credenciales nunca en el código</li>
+        <li>Empaquetado con PyInstaller → entregable <code>.exe</code> listo para producción</li>
+      </ul>
+      <p><em>🔒 Repositorio privado — disponible para revisión bajo solicitud</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,39 +72,44 @@ jamMT@terminal ~ > cat socials.json
 jamMT@terminal ~ > ls -la tech-stack/
 ```
 
-### Lenguajes, Scripts y Frameworks
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Lenguajes & Frameworks
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/AutoHotkey-%233C7F46.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
-![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/AutoHotkey-%233C7F46.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
 
-### Diseño Web y Herramientas
+### Bases de Datos & Backend
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web & Herramientas
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
 ```bash
-jamMT@terminal ~ > cat core-languages.txt
+jamMT@terminal ~ > cat socials.json
 ```
-> Lenguajes que más utilizo actualmente en mis proyectos y tiempo libre:
 
-* **HTML & CSS** — Estructuración y maquetación web.
-* **JavaScript** — Interactividad y lógica frontend.
-* **Python** — Scripts de automatización y backend.
-* **AHK (AutoHotkey)** — Desarrollo de macros personalizadas para optimización de tareas.
+<div align="left">
+  <a href="https://www.linkedin.com/in/jesus-mejia-9b92b238a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/jammtr_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <br/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=JamMTR&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=JamMTR&icon=0&color=563D7C" alt="Visitor Count" />
 </div>
