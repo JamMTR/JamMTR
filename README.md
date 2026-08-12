@@ -14,7 +14,7 @@ jamMT@terminal ~ > neofetch
 <pre>
 <b>JamMTR</b>@<b>terminal</b>
 -----------------
-<b>Name</b>    : Jesus Mejia
+<b>Name</b>    : Jamm
 <b>OS</b>      : Windows / Linux (Void · Debian · Fedora)
 <b>Shell</b>   : Bash & PowerShell
 <b>Focus</b>   : Backend Dev · Desktop Apps · Automation
@@ -32,7 +32,7 @@ jamMT@terminal ~ > neofetch
 jamMT@terminal ~ > cat about-me.md
 ```
 
-> I'm **Jesus Mejia**, a Colombian software developer focused on **automation, desktop applications, and backend development**. I specialize in building tools that solve real-world problems—not just pretty demos.
+> I'm **Jamm**, a Colombian software developer focused on **automation, desktop applications, and backend development**. I specialize in building tools that solve real-world problems—not just pretty demos.
 >
 > Currently seeking my first formal role as a **Junior Software Developer**.
 
