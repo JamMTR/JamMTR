@@ -47,7 +47,7 @@ jamMT@terminal ~ > ls -la projects/
 <table>
   <tr>
     <td>
-      <h4>🎓 App Certificados Innova</h4>
+      <h4>🎓 App Certificados Innova — Instituto Técnico Innova IGE</h4>
       <p>A desktop application to automate academic certificate emission, foliation, and registration. Multi-PC atomic folio system connected to a cloud database.</p>
       <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
