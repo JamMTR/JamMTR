@@ -8,7 +8,7 @@ jamMT@terminal ~ > neofetch
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td valign="top" width="180" style="border: none; text-align: center;">
-      <img src="assets/profile.gif" width="150" style="border-radius: 20px; border: 3px solid #563D7C; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <img src="assets/profile.gif" width="180" style="border-radius: 20px; border: 3px solid #563D7C; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
     </td>
     <td valign="top" style="border: none; padding-left: 20px;">
 <pre>
