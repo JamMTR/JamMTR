@@ -66,18 +66,23 @@ jamMT@terminal ~ > ls -la projects/
   </tr>
   <tr>
     <td>
-      <h4>🖨️ OfficeDelSinu App & API (Collaboration)</h4>
-      <p>Collaboration in developing a REST API and a web/mobile app for printer management, tech inventory, and support tickets.</p>
+      <h4>🖨️ OfficeDelSinu API (Collaboration)</h4>
+      <p>REST API for a repair order management system of a printer and photocopier service company in Montería, Colombia. Developed as a contracted software solution to replace paper registries with digital tracking of equipment entry, faults, repairs, technician allocation, PDF receipts/reports generation, and photo evidence storage.</p>
       <p>
-        <img src="https://img.shields.io/badge/javascript-%23323330.style?style=flat-square&logo=javascript"/>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET_10-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QuestPDF-grey?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Resend-black?style=flat-square"/>
       </p>
       <ul>
-        <li>Designed and integrated modules for tracking printing device status.</li>
-        <li>Optimized queries for handling error logs and technical support history.</li>
+        <li>Contributed to the development and architecture of the backend service following layered architecture patterns (Controllers, Application, Domain, Infrastructure).</li>
+        <li>Integrated PDF generation modules (QuestPDF) for receipts and technical reports, as well as Cloudflare R2 file storage via AWSSDK.S3 with image optimization (SkiaSharp).</li>
+        <li>Configured PostgreSQL extension <code>citext</code> for case-insensitive indexing on critical fields like equipment serial numbers.</li>
+        <li>Developed comprehensive unit testing (xUnit + NSubstitute + Shouldly) and integration testing (Testcontainers) for authentication flow and domain logic.</li>
       </ul>
-      <p><em>🔒 Private commercial repository belonging to the organization.</em></p>
+      <p><em>🔗 Repository: <a href="https://github.com/g-luis05/OfficeDelSinuAPI">g-luis05/OfficeDelSinuAPI</a></em></p>
     </td>
   </tr>
 </table>
@@ -86,31 +91,32 @@ jamMT@terminal ~ > ls -la projects/
 
 ```bash
 jamMT@terminal ~ > ls -la tech-stack/
+```
 
 ### Languages & Frameworks
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/AutoHotkey-%233C7F46.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/AutoHotkey-3C7F46?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 ### Databases & Backend
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web & Development Tools
-![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
