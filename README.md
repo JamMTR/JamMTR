@@ -61,7 +61,7 @@ jamMT@terminal ~ > ls -la projects/
         <li>Robust database connectivity using secure environment variables.</li>
         <li>Production-ready Windows executable packaged using PyInstaller.</li>
       </ul>
-      <p><em>🔒 Private repository — code available for review upon direct request.</em></p>
+    <p><em>&#128274; Private repository &mdash; code available for review upon direct request. <br> &#129514; Public demonstration version available at <a href="https://github.com/JamMTR/Nexo-Certificados-Demo">Nexo-Certificados-Demo</a>a> for testing and viewing.</em>em></p>p></p>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,6 @@ jamMT@terminal ~ > ls -la projects/
 
 ```bash
 jamMT@terminal ~ > ls -la tech-stack/
-```
 
 ### Languages & Frameworks
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
