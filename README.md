@@ -61,7 +61,7 @@ jamMT@terminal ~ > ls -la projects/
         <li>Robust database connectivity using secure environment variables.</li>
         <li>Production-ready Windows executable packaged using PyInstaller.</li>
       </ul>
-    <p><em>&#128274; Private repository &mdash; code available for review upon direct request. <br> &#129514; Public demonstration version available at <a href="https://github.com/JamMTR/Nexo-Certificados-Demo">Nexo-Certificados-Demo</a>a> for testing and viewing.</em>em></p>p></p>
+    <p><em>&#128274; Private repository &mdash; code available for review upon direct request. <br> &#129514; Public demonstration version available at <a href="https://github.com/JamMTR/Nexo-Certificados-Demo">Nexo-Certificados-Demo</p> for testing and viewing.
     </td>
   </tr>
   <tr>
